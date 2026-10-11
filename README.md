@@ -6,7 +6,7 @@ Projeto de banco de dados relacional desenvolvido para modelar, estruturar e ger
 ## 📊 Modelo Relacional (DER)
 Abaixo está a representação visual da modelagem do banco de dados, evidenciando as tabelas e suas respectivas chaves primárias e estrangeiras:
 
-![Diagrama Entidade-Relacionamento](./der(diagrama).png)
+![Diagrama Entidade-Relacionamento](.sistema-bancario /docs /der(diagrama).png)
 
 ## 📁 Estrutura do Repositório
 
