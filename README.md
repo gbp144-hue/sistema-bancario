@@ -12,9 +12,9 @@ Abaixo está a representação visual da modelagem do banco de dados, evidencian
 
 O projeto está dividido de forma modular para seguir as melhores práticas de Engenharia de Dados:
 
-* **`schema.sql`**[cite: 6]: Contém os scripts DDL (Data Definition Language) responsáveis pela criação do banco de dados e das tabelas estruturais (`BANCO`, `CLIENTE`, `CONTA`, `CARTAO`, `CAIXA_ELETRONICO`, `TRANSACAO`).
-* **`data.sql`**[cite: 6]: Contém os scripts DML (Data Manipulation Language) para a inserção de dados iniciais e populamento de testes.
-* **`consulta.sql`**[cite: 6]: Contém exemplos de consultas avançadas utilizando cruzamentos de dados (`JOIN`), ordenações e agregações (`GROUP BY`).
+* **`schema.sql`**: Contém os scripts DDL (Data Definition Language) responsáveis pela criação do banco de dados e das tabelas estruturais (`BANCO`, `CLIENTE`, `CONTA`, `CARTAO`, `CAIXA_ELETRONICO`, `TRANSACAO`).
+* **`data.sql`**: Contém os scripts DML (Data Manipulation Language) para a inserção de dados iniciais e populamento de testes.
+* **`consulta.sql`**: Contém exemplos de consultas avançadas utilizando cruzamentos de dados (`JOIN`), ordenações e agregações (`GROUP BY`).
 
 ## 🛠️ Tecnologias Utilizadas
 * **MySQL / MySQL Workbench**
