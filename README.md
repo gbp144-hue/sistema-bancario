@@ -17,5 +17,5 @@ O projeto está dividido de forma modular para seguir as melhores práticas de E
 * **`consulta.sql`**[cite: 6]: Contém exemplos de consultas avançadas utilizando cruzamentos de dados (`JOIN`), ordenações e agregações (`GROUP BY`).
 
 ## 🛠️ Tecnologias Utilizadas
-* **MySQL / MySQL Workbench**[cite: 3]
+* **MySQL / MySQL Workbench**
 * **Modelagem Relacional (DER)**
